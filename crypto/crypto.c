@@ -6,7 +6,7 @@ extern "C" {
 
 /******************************************************************************
 
-NOTE: This is sample code and needs proper memory cleanup and error checking
+Disclaimer: sample code, needs memory cleanup and error checking.
 
 ******************************************************************************/
 
